@@ -22,7 +22,7 @@ client.on('ready', () => {
 client.user.setGame('BroadCast II -bc','https://www.twitch.tv/kemo355');
 console.log('Logging into discord..');
 console.log(`
-By Ҝ€₥σ
+By TorpeDoSyS
 `);
 
 });
@@ -90,7 +90,7 @@ msg.delete();
 //////////////////////////////
 client.on("ready", () => { // كود رينبو
   function lol() {
-    client.guilds.get('511582404113072138').roles.find("name", "Rainbow").setColor("RANDOM");
+    client.guilds.get('527986266189594634').roles.find("name", "Rainbow").setColor("RANDOM");
   };
   setInterval(lol, 2000);
 });
